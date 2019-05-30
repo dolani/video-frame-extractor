@@ -1,0 +1,11 @@
+C:\sandbox\FrameExtractor\FrameExtractor\bin\Debug\netcoreapp2.2\FrameExtractor.deps.json
+C:\sandbox\FrameExtractor\FrameExtractor\bin\Debug\netcoreapp2.2\FrameExtractor.runtimeconfig.json
+C:\sandbox\FrameExtractor\FrameExtractor\bin\Debug\netcoreapp2.2\FrameExtractor.runtimeconfig.dev.json
+C:\sandbox\FrameExtractor\FrameExtractor\bin\Debug\netcoreapp2.2\FrameExtractor.dll
+C:\sandbox\FrameExtractor\FrameExtractor\obj\Debug\netcoreapp2.2\FrameExtractor.csproj.CoreCompileInputs.cache
+C:\sandbox\FrameExtractor\FrameExtractor\obj\Debug\netcoreapp2.2\FrameExtractor.AssemblyInfoInputs.cache
+C:\sandbox\FrameExtractor\FrameExtractor\obj\Debug\netcoreapp2.2\FrameExtractor.AssemblyInfo.cs
+C:\sandbox\FrameExtractor\FrameExtractor\bin\Debug\netcoreapp2.2\FrameExtractor.pdb
+C:\sandbox\FrameExtractor\FrameExtractor\obj\Debug\netcoreapp2.2\FrameExtractor.dll
+C:\sandbox\FrameExtractor\FrameExtractor\obj\Debug\netcoreapp2.2\FrameExtractor.pdb
+C:\sandbox\FrameExtractor\FrameExtractor\obj\Debug\netcoreapp2.2\FrameExtractor.csprojAssemblyReference.cache

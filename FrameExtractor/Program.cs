@@ -14,18 +14,18 @@ namespace FrameExtractor
          
             using (var engine = new Engine())
             {
-                var mp4 = new MediaFile { Filename = @"pathToInputFile" };
+                var mp4 = new MediaFile { Filename = @"inputFile" };
 
                 engine.GetMetadata(mp4);
 
-                // get frame after every 30seconds
-                var i = 30;
+                // get frame after every 10seconds
+                var i = 10;
                 while (i < mp4.Metadata.Duration.TotalSeconds)
                 {
                     var options = new ConversionOptions { Seek = TimeSpan.FromSeconds(i) };
-                    var outputFile = new MediaFile { Filename = string.Format("{0}\\image-{1}.jpeg", @"pathToOutFile", i) };
+                    var outputFile = new MediaFile { Filename = string.Format("{0}\\image-{1}.jpeg", @"outputfile", i) };
                     engine.GetThumbnail(mp4, outputFile, options);
-                    i += 30;
+                    i += 10;
                 }
 
             }
